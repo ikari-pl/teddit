@@ -1,3 +1,12 @@
+# THIS IS ONLY A MIRROR REPO!
+
+
+Main repository: https://codeberg.org/teddit/teddit
+Please submit issues and PRs there, if possible. Thanks.
+
+Not using GitHub because of privacy issues. See for example: https://github.com/Eloston/ungoogled-chromium/issues/795
+
+
 # teddit
 
 
